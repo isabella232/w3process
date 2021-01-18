@@ -1322,7 +1322,7 @@ Recording and Reporting Formal Objections</h4>
 	Participants may also [=recuse=] themselves for any reason.
 	Any person who has <dfn lt="recusal | recuse | recuses | recused">recused</dfn> themself
 	does not take part in its deliberations,
-	determination of concensus,
+	determination of consensus,
 	or votes
 	on this matter.
 	The [=W3C Council=] <em class=rfc2110>may</em> still solicit and hear their testimony,
